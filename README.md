@@ -1,5 +1,7 @@
 # real-world-nuxt
 
+https://mysterious-dawn-12897.herokuapp.com/
+
 ## Build Setup
 
 ```bash
